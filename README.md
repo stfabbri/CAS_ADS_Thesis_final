@@ -1,7 +1,3 @@
-# CAS_ADS_Thesis_final
-Applied Data Science Final thesis project
-
-
 # Automated Lineament Detection from Digital Elevation Models (DEM) & Field Pictures
 # Background
 
