@@ -6,10 +6,11 @@ In geological sciences, it is of major interest how faults and folds are oriente
 In the framework of this thesis, a python routine has been developed to successfully retrieve lineaments from a digital elevation model and orthophotos. The dataset from the python routine is then compared with the datasets created by the matlab-based algorithm. Furthermore, a geologist manually interpreted the orthophotos and created a dataset of lineaments, which will serve as a reference dataset. The produced dataset of lineaments are used as input for further analysis and statistical evaluation, including some unsupervised machine-learning algorithms for further interpretation of data
 
 Hence, the aim of this CAS project is multi-fold, is split into 4 goals that want to
-a)	Plot the input data and test various image enhancement techniques applied to the input data (satellite and drone based imagery)
-b)	Create a python routine to retrieve lineaments (output) from various satellite and drone based imagery (input) using edge detection algorithms
-c)	Analyze the output (lineaments) from DEMs and FIPHs
-d)	Use unsupervised machine-learning algorithms to interpret data and compare the results with data from hand-picked (geologist) datasets
+
+  a)	Plot the input data and test various image enhancement techniques applied to the input data (satellite and drone based imagery)
+  b)	Create a python routine to retrieve lineaments (output) from various satellite and drone based imagery (input) using edge detection algorithms
+  c)	Analyze the output (lineaments) from DEMs and FIPHs
+  d)	Use unsupervised machine-learning algorithms to interpret data and compare the results with data from hand-picked (geologist) datasets
 
 
 # GOAL A: Analyse DEM and Orthophotos and maniputlate and filter the data for image enhancement
