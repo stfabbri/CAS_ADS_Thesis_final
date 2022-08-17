@@ -7,13 +7,13 @@ In the framework of this thesis, a python routine has been developed to successf
 
 Hence, the aim of this CAS project is multi-fold, is split into 4 goals that want to
 
-a)	Plot the input data and test various image enhancement techniques applied to the input data (satellite and drone based imagery)
+A)	Plot the input data and test various image enhancement techniques applied to the input data (satellite and drone based imagery)
   
-b)	Create a python routine to retrieve lineaments (output) from various satellite and drone based imagery (input) using edge detection algorithms
+B)	Create a python routine to retrieve lineaments (output) from various satellite and drone based imagery (input) using edge detection algorithms
   
-c)	Analyze the output (lineaments) from DEMs and FIPHs
+C)	Analyze the output (lineaments) from DEMs and FIPHs
   
-d)	Use unsupervised machine-learning algorithms to interpret data and compare the results with data from hand-picked (geologist) datasets
+D)	Use unsupervised machine-learning algorithms to interpret data and compare the results with data from hand-picked (geologist) datasets
 
 
 ## GOAL A: Analyse DEM and Orthophotos and maniputlate and filter the data for image enhancement
