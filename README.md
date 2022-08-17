@@ -42,7 +42,7 @@ It reloads the exported csv files with lineaments form Goal B) and performs vari
 Colab python file (GOAL_D_Clustering.ipynb)
 It reloads the exported csv files with lineaments from Goal B) and performs various ways to analyse and interpret the data with unsupervised machine learning algorithms (e.g. k-means etc.) https://scikit-learn.org/stable/modules/clustering.html
 
-## Folders: Figures_Output Part 1 and 2
-These folders contain all pictures created with the notebook from Part 1 and Part 2.
+## Folders: INPUT_FIGURES and CSV_TABLES
+The "INPUT_FIGURES" folder contains input pictures for the code, as well as the input Digital elevation model in CSV-format. The CSV_TABLES folder contains the reference dataset plus the newly produced lineament dataset from python and matlab. 
 
-last change: 24.01.2022, stfabbri
+last change: 17.08.2022, stfabbri
