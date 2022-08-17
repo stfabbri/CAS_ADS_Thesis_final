@@ -1,4 +1,4 @@
-# Automated Lineament Detection from Digital Elevation Models (DEM) & Field Pictures
+## Automated Lineament Detection from Digital Elevation Models (DEM) & Field Pictures
 # Background
 
 In geological sciences, it is of major interest how faults and folds are oriented in nature, since they can host potentially hazardous earthquakes. In this design report, we discuss how various types of input images (drone photos, Lidar-images, orthophotos) can be used to obtain lineaments (e.g. faults) in an automated way with a python-based algorithm and compare these results to a reference dataset created by a geologist. The different outputs (lineaments) are then compared to each other using performance indexes (such as the Jaccard score for image similarity) and are statistically analyzed. The output is additionally clustered with various methods such as k-means and dbscan. We investigate potential gains of having an automated algorithm and try to highlight the benefits of introducing more automatism and subjectivity to the geologist’s job. 
