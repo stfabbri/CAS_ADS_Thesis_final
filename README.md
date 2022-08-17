@@ -20,7 +20,7 @@ Execute first A) than B), than C) etc. However, the scripts are also made that t
 
 
 ## GOAL A: Analyse DEM and Orthophotos and maniputlate and filter the data for image enhancement
-Colab python file (GOAL_A_ImageEnhancement.ipynb) reads in digital elevation model (DEM), and hillshade pictures
+Colab python file (GOAL_A_ImageEnhance.ipynb) reads in digital elevation model (DEM), and hillshade pictures
 
 -> Input Files are all in Folder: DEM and Hillshade; code accesses automatically the files in github
 
