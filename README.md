@@ -15,6 +15,9 @@ C)	Analyze the output (lineaments) from DEMs and FIPHs
   
 D)	Use unsupervised machine-learning algorithms to interpret data and compare the results with data from hand-picked (geologist) datasets
 
+## Code Execution
+Execute first A) than B), than C) etc. However, the scripts are also made that they can be executed also in random order. Necessary data is reloded every time at the beginning of the code.
+
 
 ## GOAL A: Analyse DEM and Orthophotos and maniputlate and filter the data for image enhancement
 Colab python file (GOAL_A_ImageEnhancement.ipynb) reads in digital elevation model (DEM), and hillshade pictures
